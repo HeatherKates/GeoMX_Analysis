@@ -1,17 +1,17 @@
 results <- c()
-assayDataElement(object = target_ThompsonData.Q3norm, elt = "log_q") <-
-  assayDataApply(target_ThompsonData.Q3norm, 2, FUN = log, base = 2, elt = "q_norm")
-pData(target_ThompsonData.Q3norm)$testRegion <-factor(pData(target_ThompsonData.Q3norm)$pancreas_region)
-target_ThompsonData.Q3norm@phenoData@varMetadata<- data.frame(colnames(target_ThompsonData.Q3norm@phenoData))
+assayDataElement(object = target_Data.Q3norm, elt = "log_q") <-
+  assayDataApply(target_Data.Q3norm, 2, FUN = log, base = 2, elt = "q_norm")
+pData(target_Data.Q3norm)$testRegion <-factor(pData(target_Data.Q3norm)$pancreas_region)
+target_Data.Q3norm@phenoData@varMetadata<- data.frame(colnames(target_Data.Q3norm@phenoData))
 
 #make a subset of high 10% CV genes
 # create CV function
 calc_CV <- function(x) {sd(x) / mean(x)}
-CV_dat <- assayDataApply(target_ThompsonData.Q3norm,
+CV_dat <- assayDataApply(target_Data.Q3norm,
                          elt = "log_q", MARGIN = 1, calc_CV)
 # Identify genes in the top 3rd of the CV values
 GOI <- names(CV_dat)[CV_dat > quantile(CV_dat, 0.9)]
-subset <- subset(target_ThompsonData.Q3norm, TargetName %in% GOI)
+subset <- subset(target_Data.Q3norm, TargetName %in% GOI)
 
 pData(subset)$testRegion <-factor(pData(subset)$pancreas_region)
 subset@phenoData@varMetadata<- data.frame(colnames(subset@phenoData))
