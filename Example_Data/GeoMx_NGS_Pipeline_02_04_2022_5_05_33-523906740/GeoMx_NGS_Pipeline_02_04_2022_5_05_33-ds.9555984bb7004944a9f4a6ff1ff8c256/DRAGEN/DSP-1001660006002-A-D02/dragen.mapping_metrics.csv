@@ -1,0 +1,99 @@
+MAPPING/ALIGNING SUMMARY,,Total input reads,2032978,100.00
+MAPPING/ALIGNING SUMMARY,,Number of duplicate marked reads,0,0.00
+MAPPING/ALIGNING SUMMARY,,Number of duplicate marked and mate reads removed,NA
+MAPPING/ALIGNING SUMMARY,,Number of unique reads (excl. duplicate marked reads),2032978,100.00
+MAPPING/ALIGNING SUMMARY,,Reads with mate sequenced,2032978,100.00
+MAPPING/ALIGNING SUMMARY,,Reads without mate sequenced,0,0.00
+MAPPING/ALIGNING SUMMARY,,QC-failed reads,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mapped reads,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mapped reads R1,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mapped reads R2,0,0.00
+MAPPING/ALIGNING SUMMARY,,Number of unique & mapped reads (excl. duplicate marked reads),0,0.00
+MAPPING/ALIGNING SUMMARY,,Unmapped reads,2032978,100.00
+MAPPING/ALIGNING SUMMARY,,Singleton reads (itself mapped; mate unmapped),0,0.00
+MAPPING/ALIGNING SUMMARY,,Paired reads (itself & mate mapped),0,0.00
+MAPPING/ALIGNING SUMMARY,,Properly paired reads,0,0.00
+MAPPING/ALIGNING SUMMARY,,Not properly paired reads (discordant),0,0.00
+MAPPING/ALIGNING SUMMARY,,Paired reads mapped to different chromosomes,0,0.00
+MAPPING/ALIGNING SUMMARY,,Paired reads mapped to different chromosomes (MAPQ>=10),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ [40:inf),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ [30:40),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ [20:30),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ [10:20),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ [ 0:10),0,0.00
+MAPPING/ALIGNING SUMMARY,,Reads with MAPQ NA (Unmapped reads),2032978,100.00
+MAPPING/ALIGNING SUMMARY,,Reads with indel R1,0,0.00
+MAPPING/ALIGNING SUMMARY,,Total bases,52635401
+MAPPING/ALIGNING SUMMARY,,Total bases R1,26325043
+MAPPING/ALIGNING SUMMARY,,Total bases R2,26310358
+MAPPING/ALIGNING SUMMARY,,Mapped bases R1,0
+MAPPING/ALIGNING SUMMARY,,Mapped bases R2,0
+MAPPING/ALIGNING SUMMARY,,Soft-clipped bases R1,0,0.00
+MAPPING/ALIGNING SUMMARY,,Soft-clipped bases R2,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mismatched bases R1,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mismatched bases R2,0,0.00
+MAPPING/ALIGNING SUMMARY,,Mismatched bases R1 (excl. indels),0,0.00
+MAPPING/ALIGNING SUMMARY,,Mismatched bases R2 (excl. indels),0,0.00
+MAPPING/ALIGNING SUMMARY,,Q30 bases,48909724,92.92
+MAPPING/ALIGNING SUMMARY,,Q30 bases R1,24484379,93.01
+MAPPING/ALIGNING SUMMARY,,Q30 bases R2,24425345,92.84
+MAPPING/ALIGNING SUMMARY,,Total alignments,0
+MAPPING/ALIGNING SUMMARY,,Secondary alignments,0
+MAPPING/ALIGNING SUMMARY,,Supplementary (chimeric) alignments,0
+MAPPING/ALIGNING SUMMARY,,Estimated read length,25.89
+MAPPING/ALIGNING SUMMARY,,Bases in reference genome,3137161264
+MAPPING/ALIGNING SUMMARY,,Bases in target bed [% of genome],NA
+MAPPING/ALIGNING SUMMARY,,Average sequenced coverage over genome,0.02
+MAPPING/ALIGNING SUMMARY,,Insert length: mean,0.00
+MAPPING/ALIGNING SUMMARY,,Insert length: median,0.00
+MAPPING/ALIGNING SUMMARY,,Insert length: standard deviation,240.00
+MAPPING/ALIGNING SUMMARY,,Provided sex chromosome ploidy,NA
+MAPPING/ALIGNING SUMMARY,,Estimated sample contamination,NA
+MAPPING/ALIGNING SUMMARY,,DRAGEN mapping rate [mil. reads/second],0.00
+MAPPING/ALIGNING PER RG,32,Total reads in RG,2032978,100.00
+MAPPING/ALIGNING PER RG,32,Number of duplicate marked reads,0,0.00
+MAPPING/ALIGNING PER RG,32,Number of duplicate marked and mate reads removed,NA
+MAPPING/ALIGNING PER RG,32,Number of unique reads (excl. duplicate marked reads),2032978,100.00
+MAPPING/ALIGNING PER RG,32,Reads with mate sequenced,2032978,100.00
+MAPPING/ALIGNING PER RG,32,Reads without mate sequenced,0,0.00
+MAPPING/ALIGNING PER RG,32,QC-failed reads,0,0.00
+MAPPING/ALIGNING PER RG,32,Mapped reads,0,0.00
+MAPPING/ALIGNING PER RG,32,Mapped reads R1,0,0.00
+MAPPING/ALIGNING PER RG,32,Mapped reads R2,0,0.00
+MAPPING/ALIGNING PER RG,32,Number of unique & mapped reads (excl. duplicate marked reads),0,0.00
+MAPPING/ALIGNING PER RG,32,Unmapped reads,2032978,100.00
+MAPPING/ALIGNING PER RG,32,Singleton reads (itself mapped; mate unmapped),0,0.00
+MAPPING/ALIGNING PER RG,32,Paired reads (itself & mate mapped),0,0.00
+MAPPING/ALIGNING PER RG,32,Properly paired reads,0,0.00
+MAPPING/ALIGNING PER RG,32,Not properly paired reads (discordant),0,0.00
+MAPPING/ALIGNING PER RG,32,Paired reads mapped to different chromosomes,0,0.00
+MAPPING/ALIGNING PER RG,32,Paired reads mapped to different chromosomes (MAPQ>=10),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ [40:inf),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ [30:40),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ [20:30),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ [10:20),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ [ 0:10),0,0.00
+MAPPING/ALIGNING PER RG,32,Reads with MAPQ NA (Unmapped reads),2032978,100.00
+MAPPING/ALIGNING PER RG,32,Reads with indel R1,0,0.00
+MAPPING/ALIGNING PER RG,32,Total bases,52635401
+MAPPING/ALIGNING PER RG,32,Total bases R1,26325043
+MAPPING/ALIGNING PER RG,32,Total bases R2,26310358
+MAPPING/ALIGNING PER RG,32,Mapped bases R1,0
+MAPPING/ALIGNING PER RG,32,Mapped bases R2,0
+MAPPING/ALIGNING PER RG,32,Soft-clipped bases R1,0,0.00
+MAPPING/ALIGNING PER RG,32,Soft-clipped bases R2,0,0.00
+MAPPING/ALIGNING PER RG,32,Mismatched bases R1,0,0.00
+MAPPING/ALIGNING PER RG,32,Mismatched bases R2,0,0.00
+MAPPING/ALIGNING PER RG,32,Mismatched bases R1 (excl. indels),0,0.00
+MAPPING/ALIGNING PER RG,32,Mismatched bases R2 (excl. indels),0,0.00
+MAPPING/ALIGNING PER RG,32,Q30 bases,48909724,92.92
+MAPPING/ALIGNING PER RG,32,Q30 bases R1,24484379,93.01
+MAPPING/ALIGNING PER RG,32,Q30 bases R2,24425345,92.84
+MAPPING/ALIGNING PER RG,32,Total alignments,0
+MAPPING/ALIGNING PER RG,32,Secondary alignments,0
+MAPPING/ALIGNING PER RG,32,Supplementary (chimeric) alignments,0
+MAPPING/ALIGNING PER RG,32,Estimated read length,25.89
+MAPPING/ALIGNING PER RG,32,Average sequenced coverage over genome,0.02
+MAPPING/ALIGNING PER RG,32,Insert length: mean,0.00
+MAPPING/ALIGNING PER RG,32,Insert length: median,0.00
+MAPPING/ALIGNING PER RG,32,Insert length: standard deviation,10000.00

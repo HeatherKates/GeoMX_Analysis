@@ -1,0 +1,46 @@
+TRIMMER STATISTICS,,Total input reads,19719892
+TRIMMER STATISTICS,,Total input bases,808515572
+TRIMMER STATISTICS,,Total input bases R1,404257786
+TRIMMER STATISTICS,,Total input bases R2,404257786
+TRIMMER STATISTICS,,Average input read length,41
+TRIMMER STATISTICS,,Total trimmed reads,19719892,100.00
+TRIMMER STATISTICS,,Total trimmed bases,297870502,36.84
+TRIMMER STATISTICS,,Average bases trimmed per read,15
+TRIMMER STATISTICS,,Average bases trimmed per trimmed read,15
+TRIMMER STATISTICS,,Remaining poly-G K-mers R1 3prime,1,0.00
+TRIMMER STATISTICS,,Remaining poly-G K-mers R2 3prime,1374,0.01
+TRIMMER STATISTICS,,Poly-G soft trimmed reads unfiltered R1 3prime,53,0.00
+TRIMMER STATISTICS,,Poly-G soft trimmed reads unfiltered R2 3prime,7004,0.07
+TRIMMER STATISTICS,,Poly-G soft trimmed reads filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Poly-G soft trimmed reads filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Poly-G soft trimmed bases unfiltered R1 3prime,540,0.00
+TRIMMER STATISTICS,,Poly-G soft trimmed bases unfiltered R2 3prime,100467,0.02
+TRIMMER STATISTICS,,Poly-G soft trimmed bases filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Poly-G soft trimmed bases filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Quality trimmed reads unfiltered R1 3prime,251152,2.55
+TRIMMER STATISTICS,,Quality trimmed reads unfiltered R2 3prime,489367,4.96
+TRIMMER STATISTICS,,Quality trimmed reads filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Quality trimmed reads filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Quality trimmed bases unfiltered R1 3prime,580649,0.14
+TRIMMER STATISTICS,,Quality trimmed bases unfiltered R2 3prime,1107334,0.27
+TRIMMER STATISTICS,,Quality trimmed bases filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Quality trimmed bases filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Adapter trimmed reads unfiltered R1 3prime,9763720,99.02
+TRIMMER STATISTICS,,Adapter trimmed reads unfiltered R2 3prime,9758097,98.97
+TRIMMER STATISTICS,,Adapter trimmed reads filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Adapter trimmed reads filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Adapter trimmed bases unfiltered R1 3prime,147006237,36.36
+TRIMMER STATISTICS,,Adapter trimmed bases unfiltered R2 3prime,146683097,36.28
+TRIMMER STATISTICS,,Adapter trimmed bases filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Adapter trimmed bases filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Cut-End trimmed reads unfiltered R1 3prime,150339,1.52
+TRIMMER STATISTICS,,Cut-End trimmed reads unfiltered R2 3prime,146283,1.48
+TRIMMER STATISTICS,,Cut-End trimmed reads filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Cut-End trimmed reads filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Cut-End trimmed bases unfiltered R1 3prime,1289474,0.32
+TRIMMER STATISTICS,,Cut-End trimmed bases unfiltered R2 3prime,1203711,0.30
+TRIMMER STATISTICS,,Cut-End trimmed bases filtered R1 3prime,0,0.00
+TRIMMER STATISTICS,,Cut-End trimmed bases filtered R2 3prime,0,0.00
+TRIMMER STATISTICS,,Total filtered reads,0,0.00
+TRIMMER STATISTICS,,Reads filtered for minimum read length R1,0,0.00
+TRIMMER STATISTICS,,Reads filtered for minimum read length R2,0,0.00

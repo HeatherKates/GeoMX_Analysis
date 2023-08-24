@@ -1,0 +1,35 @@
+<Header>
+FileVersion,0.02
+SoftwareVersion,DRAGEN_GeoMx_3.8.4-96
+Date,2022-02-04
+</Header>
+
+<Scan_Attributes>
+ID,DSP-1001660006002-A-A01
+Plate_ID,1001660006002
+Well,A01
+</Scan_Attributes>
+
+<NGS_Processing_Attributes>
+SeqSetId,A00916:196:HW525DRXY
+Maximum RTS sequence edit distance,1
+Maximum stitching edit distance,1
+Maximum stitching overlap,32
+Maximum UMI edit distance,1
+Minimum read length,26
+Minimum stitching overlap,25
+RTS sequence length,12
+Single-read analysis,disabled
+Stitched-read analysis,enabled
+UMI merge factor,2.0
+UMI sequence length,14
+Raw,0
+Trimmed,0
+Stitched,0
+Aligned,0
+umiQ30,0
+rtsQ30,0
+</NGS_Processing_Attributes>
+
+<Code_Summary>
+</Code_Summary>

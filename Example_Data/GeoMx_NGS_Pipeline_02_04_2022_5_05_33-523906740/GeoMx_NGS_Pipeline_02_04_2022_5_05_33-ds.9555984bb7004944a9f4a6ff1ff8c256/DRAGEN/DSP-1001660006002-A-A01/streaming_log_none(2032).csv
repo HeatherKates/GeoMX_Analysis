@@ -1,0 +1,5 @@
+time(s),filename,numbytes,info
+6.9,DSP-1001660006002-A-A01_S1_L001_R1_001.fastq.gz,0,start
+6.9,DSP-1001660006002-A-A01_S1_L001_R1_001.fastq.gz,252,part 1
+6.9,DSP-1001660006002-A-A01_S1_L001_R2_001.fastq.gz,0,start
+7.0,DSP-1001660006002-A-A01_S1_L001_R2_001.fastq.gz,252,part 1
